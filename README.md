@@ -39,4 +39,4 @@ Ensure you have Python installed on your system. This program uses the `SimpleGr
 To run the program, execute the following command in your terminal or command prompt:
 
 ```sh
-python constellation.py
+python script.py
